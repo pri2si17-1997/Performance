@@ -1,0 +1,7 @@
+Steps : 
+-------
+1. Create database PDOvsADO.
+2. Create tables testSpeedDataset & testSpeedDatasetADO.
+3. Change the user name and password in files namely DBConfig.php, insertADO.php, ADOSelect.php.
+4. Run the files using php <filename> command. Advisable is to first run insertADO.php and insertPDO.php to have the records in table, and then run ADOSelect.php and PDOSelect.php.
+5. Screenshots of the results are in Screenshots folder.
